@@ -44,4 +44,4 @@ In decription mode program has syntaxis:
 ./build/lab2 -e arg1
 ```
 
-- arg1 - password to create secret key to decrypt *encrypted.txt* file
+- arg1 - password to create secret key to decrypt *encrypted.txt* file *(max length 31)*
